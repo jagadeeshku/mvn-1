@@ -1,0 +1,8 @@
+/home/git/mvn-1/cjk/cjk1/src/main/java/cjk/controller/MemberController.java
+/home/git/mvn-1/cjk/cjk1/src/main/java/cjk/service/MemberRegistration.java
+/home/git/mvn-1/cjk/cjk1/src/main/java/cjk/data/MemberRepository.java
+/home/git/mvn-1/cjk/cjk1/src/main/java/cjk/rest/JaxRsActivator.java
+/home/git/mvn-1/cjk/cjk1/src/main/java/cjk/data/MemberListProducer.java
+/home/git/mvn-1/cjk/cjk1/src/main/java/cjk/model/Member.java
+/home/git/mvn-1/cjk/cjk1/src/main/java/cjk/rest/MemberResourceRESTService.java
+/home/git/mvn-1/cjk/cjk1/src/main/java/cjk/util/Resources.java

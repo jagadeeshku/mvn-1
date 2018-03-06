@@ -1,0 +1,9 @@
+cjk/rest/JaxRsActivator.class
+cjk/data/MemberListProducer.class
+cjk/service/MemberRegistration.class
+cjk/model/Member_.class
+cjk/rest/MemberResourceRESTService.class
+cjk/util/Resources.class
+cjk/data/MemberRepository.class
+cjk/controller/MemberController.class
+cjk/model/Member.class
